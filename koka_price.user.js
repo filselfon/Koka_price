@@ -2,8 +2,8 @@
 // @name         Kokam Pro
 // @namespace    kokam-pro
 // @version      16.0.0
-// @updateURL    https://raw.githubusercontent.com/filselfon/Koka_price/main/koka_price.js
-// @downloadURL  https://raw.githubusercontent.com/filselfon/Koka_price/main/koka_price.js
+// @updateURL    https://raw.githubusercontent.com/filselfon/Koka_price/main/koka_price.user.js
+// @downloadURL  https://raw.githubusercontent.com/filselfon/Koka_price/main/koka_price.user.js
 // @description  مقایسهٔ قیمت فروشندگان، تاریخچهٔ رسمی قیمت دیجی‌کالا (بازهٔ واقعی داده)، بازرس تخفیف، واچ‌لیست و هشدار — یک پنل واحد
 // @author       حامد
 // @contributor  حامد
